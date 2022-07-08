@@ -7,8 +7,9 @@
 
 
 ## ②工夫した点・こだわった点
-- 　APIキーを.envに入れ保守性を上げた
-　　　　　　　→無料APIのため、こちらKEYを記載します。　→ API_KEY = 3b2e653b4c5e7b912fff387dbd4daf11
+- 　APIキーを.envに入れ保守性を上げた<br>
+無料APIのため、KEYを記載します。<br>
+     → API_KEY = 3b2e653b4c5e7b912fff387dbd4daf11
 
   
  ## ③参照資料
